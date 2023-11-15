@@ -1,5 +1,5 @@
 {
-  "name": "googlebooks-app",
+  "name": "book_search_powered_by_google",
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",

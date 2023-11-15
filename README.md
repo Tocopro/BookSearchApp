@@ -44,7 +44,7 @@ npm run develop
 
 #### Heroku Deployment
 
-[Click me to see app!](https://book-search-mern.onrender.com/)
+[Click me to see app!]()
 
 - Create heroku app
 
@@ -72,7 +72,7 @@ npm run develop
 
 #### App Screenshot
 
-![Screenshot](./client/public/GBS.png)
+![Screenshot]()
 
 ## License
 
@@ -81,11 +81,11 @@ This project is licensed under MIT, for more information please visit [this webs
 
 ## Contribution
 
-Made by Wenwen Tian
+Nicholas Wachira
 
 ## Questions?
 
 Please feel free to contact me if you need any further information:
 
-- [Email](mailto:wwtian9@gmail.com)
-- [Github Profile](https://github.com/joce1ynn)
+- [Email](mailto:nicwac200g@gmail.com)
+- [Github Profile](https://github.com/Tocopro/BookSearchApp)
